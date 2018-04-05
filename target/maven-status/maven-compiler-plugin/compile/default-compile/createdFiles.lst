@@ -21,7 +21,9 @@ com\hdp\registry\AvroData$2.class
 com\hdp\registry\SampleSchemaRegistryClientApp.class
 com\hdp\registry\AvroData$3.class
 com\hdp\registry\AvroData$8.class
+com\hdp\registry\HdfsSinkTask.class
 com\hdp\registry\TruckEventsCsvConverter.class
+com\hdp\registry\HdfsSinkConnector.class
 com\hdp\registry\TruckEvent.class
 com\example\Customer.class
 com\hdp\registry\AvroData$5.class
