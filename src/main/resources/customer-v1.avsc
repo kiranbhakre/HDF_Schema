@@ -1,0 +1,13 @@
+{
+
+    "type" : "record",
+    "namespace":"com.example",
+    "name" : "Customer",
+    "version":1,
+    "fields" :[
+
+    { "name": "first_name", "type" :"string","default": "" , "doc" :"First Name of the Customer"},
+    { "name": "last_name", "type" :"string", "default": "" , "doc" :"Last Name of the Customer"},
+    { "name": "height", "type" :"float", "default": "0" ,"doc" :"Height at the time of registration"}
+    ]
+}
