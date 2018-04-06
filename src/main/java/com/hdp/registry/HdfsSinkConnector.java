@@ -57,6 +57,9 @@ public class HdfsSinkConnector extends SinkConnector {
 
     @Override
     public ConfigDef config() {
-        return null;
+
+        ConfigDef defs = new ConfigDef();
+        return defs;
+
     }
 }
